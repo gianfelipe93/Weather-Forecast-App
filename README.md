@@ -8,6 +8,7 @@ Too easy:
 ```
 > git clone https://github.com/gianfelipe93/Weather-Forecast-App.git
 > cd Weather-Forecast-App
+> npm install -i react-sparklines@1.6.0 --save
 > npm install
 > npm start
 ```
